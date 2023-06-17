@@ -1,4 +1,4 @@
 #!/bin/bash
 make
-sudo insmod ./labspectrekm.ko
-sudo chmod -R 0777 /proc/labspectre-victim
+sudo insmod ./lab2km.ko
+sudo chmod -R 0777 /proc/lab2-victim

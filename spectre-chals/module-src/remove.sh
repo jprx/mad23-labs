@@ -1,3 +1,3 @@
 #!/bin/bash
-sudo rmmod ./labspectrekm.ko
+sudo rmmod ./lab2km.ko
 
